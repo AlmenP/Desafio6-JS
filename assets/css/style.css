@@ -1,0 +1,32 @@
+body {
+    font-family: 'Mulish', sans-serif;
+    background-color: rgb(29, 12, 70);
+}
+
+.box {
+    background-color:rgb(63, 83, 148);
+    width: 500px;
+    border-radius: 12%;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+input, select {
+    width: 400px;
+}
+
+button{
+    width: 120px;
+    height: 40px;
+    background-color: rgb(29, 12, 70);
+    color: white;
+    border: none;
+
+}
